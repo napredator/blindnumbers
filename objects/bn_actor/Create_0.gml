@@ -17,4 +17,6 @@ number=irandom_range(10000,99999);
 number_type="";
 number_length=string_length(number);
 number_i=0;
+spoken_number=1;
+hide_text=0;
 alarm[0]=30;
